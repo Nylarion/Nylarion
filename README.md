@@ -16,5 +16,9 @@
 ![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=333333&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ---
+### 📫 Contacto
 
+- Email: [lcerda2023@alu.uct.cl](lcerda2023@alu.uct.cl) 
+
+---
 🔭 ¡Gracias por visitar mi perfil!
